@@ -39,3 +39,4 @@ export default function Home() {
     </div>
   );
 }
+Update homepage to minimalist design
